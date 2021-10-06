@@ -17,4 +17,4 @@ I took this https://www.reddit.com/r/firefox/comments/ge86z4/newtab_page_to_loca
 
 ## Lisence
 
-Lisences are bloat so i just put it under WTFPL
+Lisences are bloat so i just put it under BSD
