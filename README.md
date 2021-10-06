@@ -16,11 +16,11 @@ I took this https://www.reddit.com/r/firefox/comments/ge86z4/newtab_page_to_loca
 *if whatever issue you are having is not on here create an issue (duh)*
 
 - rm failed to remove a file
-		- dont worry about it
+	- dont worry about it
 
 - permission denied errors
 
-		- run the command as root
+	- run the command as root
 
 ## Lisence
 
