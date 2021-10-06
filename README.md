@@ -5,7 +5,7 @@ I took this https://www.reddit.com/r/firefox/comments/ge86z4/newtab_page_to_loca
 # Installation
 **1.** git clone "this repo" && cd FF-startpage
 
-**2.** startpage "path/to/index.html" 
+**2.** ./command.sh "path/to/index.html" 
 
 **3.** deal with any erros it may throw
 
