@@ -4,8 +4,11 @@ I took this https://www.reddit.com/r/firefox/comments/ge86z4/newtab_page_to_loca
 
 # Installation
 **1.** git clone "this repo" && cd FF-startpage
+
 **2.** startpage "path/to/index.html" 
+
 **3.** deal with any erros it may throw
+
 **4.** profit
 
 ## Dealing with any errors it may throw
@@ -14,6 +17,10 @@ I took this https://www.reddit.com/r/firefox/comments/ge86z4/newtab_page_to_loca
 
 - rm failed to remove a file
 		- dont worry about it
+
+- permission denied errors
+
+		- run the command as root
 
 ## Lisence
 
